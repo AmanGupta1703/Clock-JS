@@ -16,5 +16,8 @@ The addZero function is called to ensure that single digit hours, minutes, and s
 ## Displaying the time on the page
 Finally, the formatted time string is displayed on the page using the document.querySelector method to find the element with the class .time, and the textContent property to set the text content of that element to the time string.
 
+## Live Preview
+[Clock JS](https://clock-j-project.netlify.app/)
+
 ## Conclusion
 This code provides a simple implementation of a JavaScript clock that can be easily integrated into a website or web application to display the current time to the user.
